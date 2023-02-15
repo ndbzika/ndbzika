@@ -56,6 +56,16 @@
 ### Dev Stats
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   5 hrs 15 mins   ██████████████▒░░░░░░░░░░   56.72 %
+CSS          2 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+HTML         1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
