@@ -7,9 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndbzika&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ndbzika&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -50,5 +47,15 @@
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ndbzika}/count.svg" /></p> 
 <br></div>
+
+### Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+### Dev Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
