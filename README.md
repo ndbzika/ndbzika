@@ -55,12 +55,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java               7 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.88 %
-JavaScript         5 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   35.43 %
-EJS                1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-JSON               35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-PlantUML file      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-reStructuredText   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Java               8 hrs 7 mins    ██████████████░░░░░░░░░░░   56.39 %
+JavaScript         4 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   28.14 %
+EJS                1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+JSON               35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+PlantUML file      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+reStructuredText   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
