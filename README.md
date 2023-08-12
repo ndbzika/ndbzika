@@ -53,10 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS         1 hr 27 mins    ██████████████▒░░░░░░░░░░   57.83 %
-TypeScript   1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   40.67 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
