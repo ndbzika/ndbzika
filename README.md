@@ -57,6 +57,24 @@
 ### Dev Stats
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 20 March 2024 - To: 19 April 2024
+
+Total Time: 20 hrs 7 mins
+
+SCSS          7 hrs 21 mins   >>>>>>>>>----------------   36.56 %
+HTML          7 hrs 19 mins   >>>>>>>>>----------------   36.42 %
+TypeScript    2 hrs 48 mins   >>>----------------------   13.99 %
+Bash          56 mins         >------------------------   04.68 %
+YAML          39 mins         >------------------------   03.29 %
+Terraform     33 mins         >------------------------   02.76 %
+Prisma        12 mins         -------------------------   01.00 %
+JSON          7 mins          -------------------------   00.65 %
+JavaScript    5 mins          -------------------------   00.49 %
+Markdown      1 min           -------------------------   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
