@@ -12,19 +12,30 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: true
           COMMIT_MESSAGE: "Updated dev metrics"
           COMMIT_USERNAME: "ndbzika"
           COMMIT_EMAIL: "chakcpps@gmail.com"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_COMMIT: "True"
-          SHOW_LOC_CHART: "False"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_UPDATED_DATE: true
+          SHOW_PROFILE_VIEWS: false
+          SHOW_EDITORS: false
+          SHOW_LANGUAGE: true
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LINES_OF_CODE: true
+          SHOW_COMMIT: true
+          SHOW_LOC_CHART: false
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_SHORT_INFO: true
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: rust
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
