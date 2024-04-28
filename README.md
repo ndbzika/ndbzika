@@ -59,17 +59,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 March 2024 - To: 26 April 2024
+From: 28 March 2024 - To: 27 April 2024
 
-Total Time: 31 hrs 20 mins
+Total Time: 31 hrs 27 mins
 
-TypeScript    8 hrs 50 mins   >>>>>>>------------------   28.05 %
-SCSS          7 hrs 21 mins   >>>>>>-------------------   23.34 %
-HTML          7 hrs 19 mins   >>>>>>-------------------   23.26 %
-YAML          3 hrs 50 mins   >>>----------------------   12.20 %
-Bash          2 hrs 4 mins    >>-----------------------   06.60 %
-Terraform     46 mins         >------------------------   02.45 %
-Markdown      25 mins         -------------------------   01.37 %
+TypeScript    8 hrs 58 mins   >>>>>>>------------------   28.33 %
+SCSS          7 hrs 21 mins   >>>>>>-------------------   23.25 %
+HTML          7 hrs 19 mins   >>>>>>-------------------   23.17 %
+YAML          3 hrs 50 mins   >>>----------------------   12.15 %
+Bash          2 hrs 4 mins    >>-----------------------   06.58 %
+Terraform     46 mins         >------------------------   02.44 %
+Markdown      25 mins         -------------------------   01.36 %
 Prisma        20 mins         -------------------------   01.06 %
 Other         11 mins         -------------------------   00.59 %
 ```
