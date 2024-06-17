@@ -59,13 +59,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 May 2024 - To: 15 June 2024
+From: 17 May 2024 - To: 16 June 2024
 
-Total Time: 38 hrs 28 mins
+Total Time: 37 hrs 12 mins
 
-JavaScript    29 hrs          >>>>>>>>>>>>>>>>>>-------   71.67 %
-TypeScript    6 hrs 45 mins   >>>>---------------------   16.69 %
-Other         1 hr 59 mins    >------------------------   04.92 %
+JavaScript    27 hrs 50 mins  >>>>>>>>>>>>>>>>>>-------   71.03 %
+TypeScript    6 hrs 45 mins   >>>>---------------------   17.22 %
+Other         1 hr 59 mins    >------------------------   05.08 %
 ```
 
 <!--END_SECTION:waka-->
