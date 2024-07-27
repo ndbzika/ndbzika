@@ -59,17 +59,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 June 2024 - To: 25 July 2024
+From: 26 June 2024 - To: 26 July 2024
 
-Total Time: 4 hrs 40 mins
+Total Time: 5 hrs 29 mins
 
-TypeScript   4 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.17 %
-Prisma       13 mins         >------------------------   04.64 %
-Bash         5 mins          -------------------------   01.88 %
-JSON         1 min           -------------------------   00.56 %
-YAML         1 min           -------------------------   00.47 %
-Git Config   0 secs          -------------------------   00.16 %
-Other        0 secs          -------------------------   00.13 %
+TypeScript    5 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>>>>--   91.99 %
+Prisma        13 mins         >------------------------   03.94 %
+Bash          5 mins          -------------------------   01.60 %
+TSConfig      3 mins          -------------------------   00.97 %
+JSON          2 mins          -------------------------   00.61 %
+YAML          1 min           -------------------------   00.40 %
+JavaScript    0 secs          -------------------------   00.15 %
+Other         0 secs          -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
