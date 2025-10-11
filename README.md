@@ -59,18 +59,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 September 2025 - To: 09 October 2025
+From: 10 September 2025 - To: 10 October 2025
 
-Total Time: 6 hrs 16 mins
+Total Time: 8 hrs 5 mins
 
-TypeScript   4 hrs 11 mins   >>>>>>>>>>>>>>>>>--------   66.50 %
-JavaScript   34 mins         >>-----------------------   09.04 %
-CSS          15 mins         >------------------------   04.01 %
-Python       12 mins         >------------------------   03.28 %
-Git Config   8 mins          >------------------------   02.28 %
-Bash         7 mins          -------------------------   01.88 %
-Markdown     6 mins          -------------------------   01.60 %
-HTML         3 mins          -------------------------   00.81 %
+TypeScript   5 hrs 31 mins   >>>>>>>>>>>>>>>>>--------   67.99 %
+JavaScript   34 mins         >>-----------------------   07.02 %
+Prisma       27 mins         >------------------------   05.60 %
+CSS          15 mins         >------------------------   03.11 %
+Python       12 mins         >------------------------   02.55 %
+Bash         9 mins          -------------------------   01.86 %
+Git Config   8 mins          -------------------------   01.77 %
+Markdown     6 mins          -------------------------   01.24 %
+HTML         3 mins          -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
