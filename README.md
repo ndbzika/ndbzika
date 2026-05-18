@@ -59,14 +59,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 April 2026 - To: 17 May 2026
+From: 18 April 2026 - To: 18 May 2026
 
-Total Time: 16 hrs 34 mins
+Total Time: 16 hrs 31 mins
 
-TypeScript     14 hrs 58 mins        >>>>>>>>>>>>>>>>>>>>>>>--   90.29 %
+TypeScript     14 hrs 55 mins        >>>>>>>>>>>>>>>>>>>>>>>--   90.26 %
 shell script   34 mins               >------------------------   03.44 %
 Markdown       23 mins               >------------------------   02.38 %
-SQL            5 mins                -------------------------   00.57 %
+SQL            5 mins                -------------------------   00.58 %
 Prisma         1 min                 -------------------------   00.20 %
 Bash           1 min                 -------------------------   00.13 %
 ```
