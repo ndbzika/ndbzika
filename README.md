@@ -59,18 +59,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 July 2026 - To: 11 August 2026
+From: 13 July 2026 - To: 12 August 2026
 
-Total Time: 20 hrs 39 mins
+Total Time: 24 hrs 13 mins
 
-TypeScript     15 hrs 18 mins        >>>>>>>>>>>>>>>>>>>------   74.08 %
-Markdown       2 hrs 20 mins         >>>----------------------   11.33 %
-shell script   1 hr 27 mins          >>-----------------------   07.07 %
-Prisma         17 mins               -------------------------   01.38 %
-JavaScript     12 mins               -------------------------   01.01 %
-SQL            5 mins                -------------------------   00.47 %
-Bash           5 mins                -------------------------   00.43 %
-jsonc          4 mins                -------------------------   00.39 %
+TypeScript     18 hrs 30 mins        >>>>>>>>>>>>>>>>>>>------   76.36 %
+Markdown       2 hrs 20 mins         >>-----------------------   09.66 %
+shell script   1 hr 29 mins          >>-----------------------   06.16 %
+Prisma         17 mins               -------------------------   01.20 %
+JavaScript     12 mins               -------------------------   00.87 %
+SQL            5 mins                -------------------------   00.40 %
+Bash           5 mins                -------------------------   00.37 %
+jsonc          4 mins                -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
